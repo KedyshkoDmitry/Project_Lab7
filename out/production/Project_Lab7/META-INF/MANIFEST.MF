@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: bsu.rfe.java.group8.lab7.Kedyshko.var7.MainFrame
+
